@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Video Viral</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 20%;
+    }
+    h1 {
+      font-size: 60px;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+  <h1>ANDA TERTIPU Awowkwowk!</h1>
+  <p style="color:white; font-size: 20px;">Jangan mudah percaya link sembarangan ya...</p>
+</body>
+</html>
